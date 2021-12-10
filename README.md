@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @pezhman762
 - 📫 How to reach me ...
-instagram :pezhman_behfard
-instagram : asa.ardeh
-gmail :321arnika8971@gmail.com
+
+instagram 
+:pezhman_behfard
+instagram 
+: asa.ardeh
+gmail 
+:321arnika8971@gmail.com
 
 
 <!---
